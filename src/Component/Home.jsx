@@ -30,7 +30,7 @@ function Navbar() {
       <div className="max-w-7xl mx-auto flex justify-between items-center px-6 py-3">
         <Link to="/" className="text-2xl font-bold">CivicConnect</Link>
         <div className="space-x-6">
-          <Link to="/citizen-dashboard" className="hover:text-yellow-300">Citizen Dashboard</Link>
+          <Link to="/citizen-dashboard" className="hover:text-yellow-300">Naagrik Dashboard</Link>
           <Link to="/authorities-dashboard" className="hover:text-yellow-300">Authorities Dashboard</Link>
           <Link to="/city" className="hover:text-yellow-300">Your City</Link>
           <Link to="/register" className="hover:text-yellow-300">Register</Link>
